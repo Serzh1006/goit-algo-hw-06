@@ -45,4 +45,4 @@ def bfs_recursive(graph, queue, visited=None):
 bfs_recursive(graph, deque(["San-Diego"]))
 print("\n\n")
 # Виклик функції DFS
-dfs_recursive(graph, 'San-Diego')
+dfs_recursive(graph, 'Chicago')
